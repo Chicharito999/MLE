@@ -65,4 +65,7 @@ for i=1:3
 end
 ```
 ## 结果分析
+![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片13.png)<br>
+![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片14.png)<br>
+![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片15.png)
 从运行结果中，可以看出，多个特征组合的多维数据的均值的最大似然估计值等于每个特征的单维数据的均值的最大似然估计值组合得到的行向量。多个特征组合的多维数据通过最大似然估计得到的协方差矩阵的对角线元素等于对应特征的单维数据的方差的最大似然估计值。其原因在题目分析中作了解释。
